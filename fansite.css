@@ -1,4 +1,11 @@
 #welcome{
   font-size: 48px;
-  color: rgb(88, 196, 234);
+  color: rgb(255, 0, 0);
+}
+#title{
+  font-size: larger;
+  color: crimson;
+}
+#theBackround {
+  background-color: rgba(112, 128, 144, 0);
 }
