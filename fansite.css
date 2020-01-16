@@ -9,3 +9,12 @@
 #theBackround {
   background-color: rgba(112, 128, 144, 0);
 }
+
+.center-content{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.text-large{
+  font-size: 30px;
+}
