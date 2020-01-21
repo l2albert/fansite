@@ -11,14 +11,18 @@
 }
 
 .center-content{
-  display: flex;
-  justify-content: space-evenly;
+  flex-direction: row;
+ display: flex;
+justify-content: space-evenly;
+font-size: 30px;
+  
 
 }
 
 
 .text-large{
   font-size: 30px;
+  
 }
 
 .audio
