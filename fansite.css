@@ -13,8 +13,13 @@
 .center-content{
   display: flex;
   justify-content: space-evenly;
+
 }
+
 
 .text-large{
   font-size: 30px;
 }
+
+.audio
+{music}
